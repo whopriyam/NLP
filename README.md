@@ -1,3 +1,3 @@
 # NLP-Practice
 
-Just some stuff I'm doing to start off with Natural Language Processing.
+A lot of the stuff I've worked on including some major projects are present in this repository.
